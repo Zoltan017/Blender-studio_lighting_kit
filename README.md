@@ -5,9 +5,6 @@
 
 > A viewport utility that measures arbitrary 3D mesh bounds and automatically builds a production-ready studio backdrop, balanced 3-point light rig, 100mm product camera, and turntable loop.
 
-<!-- DRAG AND DROP YOUR GIF HERE -->
-![Studio Setup Demo](https://via.placeholder.com/800x450.png?text=Drag+and+Drop+Your+Demo+GIF+Here)
-
 ---
 
 ## 📌 Project Overview & Purpose
